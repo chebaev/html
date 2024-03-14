@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <meta name="viewport"
-    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="MobileOptimized" content="176"/>
+    <meta name="HandheldFriendly" content="True"/>
+    <title></title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script> 
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Monserrat:wght@200;500&display=swap');
 
@@ -72,8 +75,8 @@
         <h1>Публичная оферта
         <br> Правила телеграм бота @shutlyk_vpn
         </h1>
-    <!-- </div>
-    <!-- <div id="text">
+    </div>
+    <div id="text">
         <h3>1. Общие положения</h3>
         <p>1.1. Владелец сервиса, «Продавец», публикует Публичную оферту о продаже товаров, информация о которых представлена в телеграм боте @shutlyk_vpn</p>
         <p>1.2. Данный документ является публичной офертой, и в случае принятия изложенных ниже условий физическое лицо,
